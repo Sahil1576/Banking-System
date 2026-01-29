@@ -1,6 +1,1 @@
-streamlit
-pandas
-psycopg2
-random
-string
-database
+psycopg2-binary
