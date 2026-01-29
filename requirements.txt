@@ -1,0 +1,6 @@
+streamlit
+pandas
+psycopg2
+random
+string
+database
